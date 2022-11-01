@@ -3,6 +3,7 @@
  export default function Accordian() {
    return (
       <>
+      <h1>my name is naveen sharma</h1>
     <div className="accordion" id="accordionExample">
   <div className="accordion-item">
     <h2 className="accordion-header" id="headingOne">
